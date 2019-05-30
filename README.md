@@ -40,7 +40,7 @@ Get all of the gems and get to the flag without letting Timmy die.
 ![Image](game_won.PNG)
 
 ## Releases
-[Link](https://github.com/ewalke0309/Happy_Jumper/releases)
+[Happy Jumper Version 0.4.0](https://github.com/ewalke0309/Happy_Jumper/releases)
 
 
 
