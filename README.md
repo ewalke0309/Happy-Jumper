@@ -1,6 +1,6 @@
 # Happy Jumper
 Created by Evan Walker
-
+ 
 ## Backstory
 
   Timmy is a happy boy. Timmy is always happy and makes other people happy as well. Nobody knows why he is so happy because he was so unlucky. He was always travelling, and saw many wonders of the world. But one day he traveled to a countryside that had a lot of mean spinning boys. This made Timmy a sad boy. Timmy wants to get through the area and collect all of the gems without getting hurt. He is a very athletic boy and will use that to his advantage against the mean spinning boys.
