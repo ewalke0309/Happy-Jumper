@@ -1,5 +1,5 @@
 # Happy Jumper
-Created by Evan Walker
+Created by Evan Walker 
 
 ## Backstory
 
