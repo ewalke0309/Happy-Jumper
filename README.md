@@ -1,5 +1,5 @@
 # Happy Jumper
-
+Created by Evan Walker
 [editor on GitHub](https://github.com/ewalke0309/Happy-Jumper/edit/master/README.md)
 
 ## Backstory
