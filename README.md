@@ -3,7 +3,7 @@ Created by Evan Walker
 
 ## Backstory
 
-Timmy is a happy boy. He was always travelling, but one day he traveled to a countryside that had a lot of mean spinning boys. This made Timmy a sad boy. Timmy wants to get through the area and collect all of the gems without getting hurt. He is a very athletic boy and will use that to his advantage against the mean spinning boys.
+Timmy is a happy boy. He was always travelling, and saw many wonders of the world. But one day he traveled to a countryside that had a lot of mean spinning boys. This made Timmy a sad boy. Timmy wants to get through the area and collect all of the gems without getting hurt. He is a very athletic boy and will use that to his advantage against the mean spinning boys.
 
 ## Objective
 
