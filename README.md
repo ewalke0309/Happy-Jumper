@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Backstory
 
-Timmy is a happy boy. He was always travelling, but one day he travelled to a countryside that had a lot of mean spinning boys. This made Timmy a sad boy. Timmy wants to get through the area without getting hurt. He is a very athletic boy and will use that to his advantage against the mean spinning boys.
+Timmy is a happy boy. He was always travelling, but one day he traveled to a countryside that had a lot of mean spinning boys. This made Timmy a sad boy. Timmy wants to get through the area without getting hurt. He is a very athletic boy and will use that to his advantage against the mean spinning boys.
 
 ## Objective
 
@@ -38,6 +38,9 @@ Get all of the gems and get to the flag without letting Timmy die.
 
 ### Win Screen
 ![Image](game_won.PNG)
+
+## Releases
+[Link](https://github.com/ewalke0309/Happy_Jumper/releases)
 
 
 
