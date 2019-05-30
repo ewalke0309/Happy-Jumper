@@ -25,19 +25,19 @@ Get all of the gems and get to the flag without letting Timmy die.
 ## Gameplay
 
 ### Start Screen
-![start_screen.png]
+![Image](start_screen.png)
 
 ### Playing
-![playing.png]
+![Image](playing.png)
 
 ### Level Clear
-![level_clear.png]
+![Image](level_clear.png)
 
 ### Lose Screen
-![game_lost.png]
+![Image](game_lost.png)
 
 ### Win Screen
-![game_won.png]
+![Image](game_won.png)
 
 
 
