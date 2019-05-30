@@ -10,7 +10,7 @@ Timmy is a happy boy. He was always travelling, but one day he traveled to a cou
 
 Get all of the gems and get to the flag without letting Timmy die.
 
-## Controls
+## Instructions
 
 -Press "Space" to start the game.
 -Use the arrow keys to move left and right.
