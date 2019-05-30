@@ -1,12 +1,45 @@
-## Happy Jumper
+# Happy Jumper
 
 You can use the [editor on GitHub](https://github.com/ewalke0309/Happy-Jumper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Hi
+## Backstory
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Timmy is a happy boy. He was always travelling, but one day he travelled to a countryside that had a lot of mean spinning boys. This made Timmy a sad boy. Timmy wants to get through the area without getting hurt. He is a very athletic boy and will use that to his advantage against the mean spinning boys.
+
+## Objective
+
+Get all of the gems and get to the flag without letting Timmy die.
+
+## Controls
+
+-Press "Space" to start the game.
+-Use the arrow keys to move left and right.
+-Press "Space" to jump.
+-Press "Space" after playing to play again.
+-Each gem gives you 20 points.
+-You have 3 hearts, once you lose them all you die.
+-There are a few levels you will need to clear.
+
+## Gameplay
+
+### Start Screen
+![start_screen.png]
+
+### Playing
+![playing.png]
+
+### Level Clear
+![level_clear.png]
+
+### Lose Screen
+![game_lost.png]
+
+### Win Screen
+![game_won.png]
+
+
 
 ```markdown
 Syntax highlighted code block
